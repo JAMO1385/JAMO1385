@@ -46,20 +46,13 @@ Currently diving deeper into **AI-powered applications** and **Telegram bot deve
 ```yaml
 languages:
   - Python
-  - JavaScript
-  - TypeScript
+  - PHP
 
 frontend:
-  - React
-  - HTML5 & CSS3
-  - Tailwind CSS
-  - Sass
+  - 
 
 tools:
-  - Git & GitHub
-  - VS Code
-  - Linux CLI
-  - Node.js
+  - 
 ```
 
 ---
