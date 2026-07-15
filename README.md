@@ -3,10 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/aliraeesi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/JAMO1385"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="t.me/aliraeesi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
@@ -32,7 +30,7 @@ I'm a passionate developer who loves turning ideas into code. I believe in writi
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,html,css,sass,tailwind,git,github,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,php" alt="Tech Stack" />
 </p>
 
 > *This section will grow as I explore more technologies!*
@@ -42,12 +40,12 @@ I'm a passionate developer who loves turning ideas into code. I believe in writi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aliraeesi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraeesi&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JAMO1385&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAMO1385&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliraeesi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAMO1385&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -58,10 +56,10 @@ I'm a passionate developer who loves turning ideas into code. I believe in writi
 As I build projects, I'll feature them here:
 
 <div align="center">
-  <a href="https://github.com/aliraeesi/awesome-project">
+  <a href="https://github.com/JAMO1385/awesome-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliraeesi&repo=awesome-project&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/aliraeesi/another-project">
+  <a href="https://github.com/JAMO1385/another-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliraeesi&repo=another-project&theme=github_dark&hide_border=true" />
   </a>
 </div>
@@ -76,7 +74,7 @@ As I build projects, I'll feature them here:
 ## 📈 Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliraeesi&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAMO1385&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -89,8 +87,7 @@ As I build projects, I'll feature them here:
 </p>
 
 <p align="center">
-  <a href="https://github.com/aliraeesi"><img src="https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Say_Hi!-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://github.com/JAMO1385"><img src="https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
