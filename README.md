@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/JAMO1385"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/aliraeesi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="t.me/aliraeesi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
@@ -57,10 +57,10 @@ As I build projects, I'll feature them here:
 
 <div align="center">
   <a href="https://github.com/JAMO1385/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliraeesi&repo=awesome-project&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAMO1385&repo=awesome-project&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/JAMO1385/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliraeesi&repo=another-project&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAMO1385&repo=another-project&theme=github_dark&hide_border=true" />
   </a>
 </div>
 -->
