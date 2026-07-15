@@ -6,7 +6,7 @@
   </a>
 
   <p align="center" style="font-family: 'Geist', system-ui, sans-serif; color: #4d4d4d; font-size: 16px; margin: 16px 0 0 0; line-height: 1.5;">
-    <b style="color: #171717;">Ali Raeesi</b> · Developer & Problem Solver · <code style="font-family: 'Geist Mono', monospace; font-size: 14px; background: #f3f3f3; padding: 2px 8px; border-radius: 4px;">@aliraeesi</code>
+    <b style="color: #171717;">Ali Raeesi</b> · Developer & Problem Solver · <code style="font-family: 'Geist Mono', monospace; font-size: 14px; background: #f3f3f3; padding: 2px 8px; border-radius: 4px;">@JAMO1385</code>
   </p>
 
   <!-- Social Links -->
@@ -45,20 +45,13 @@ Currently diving deeper into **AI-powered applications** and **Telegram bot deve
 ```yaml
 languages:
   - Python
-  - JavaScript
-  - TypeScript
+  - php
 
 frontend:
-  - React
-  - HTML5 & CSS3
-  - Tailwind CSS
-  - Sass
+  -
 
 tools:
-  - Git & GitHub
-  - VS Code
-  - Linux CLI
-  - Node.js
+  -
 ```
 
 ---
@@ -136,7 +129,7 @@ Whether you have a project idea, want to collaborate, or just geek out about tec
 
 <p align="center">
   <sub>
-    <b>📌 Profile</b> · <code>github.com/aliraeesi</code>
+    <b>📌 Profile</b> · <code>github.com/JAMO1385</code>
     <br>
     ⭐ If you like what you see, consider starring a repo!
     <br>
